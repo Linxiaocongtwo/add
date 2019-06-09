@@ -7,5 +7,6 @@
 2add添加到缓存区
 3reset保存
 4checkout撤销
-
 dev 分支第一次修改
+dev 分支最新修改
+master 最新最新修改
